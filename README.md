@@ -1,3 +1,3 @@
-# PiratesInvasionStage-6
+# Final stages of my own game
 
-adding sounds and score
+adding score and updates
